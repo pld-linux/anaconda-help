@@ -1,5 +1,5 @@
 Summary:	Help files for use in the Red Hat Linux installer
-Summary(pl):	Pliki pomocy dla instalatora systemu Red Hat Linux
+Summary(pl.UTF-8):   Pliki pomocy dla instalatora systemu Red Hat Linux
 Name:		anaconda-help
 Version:	10.1.0
 Release:	1
@@ -19,8 +19,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 The anaconda-help package contains the help used in anaconda, the Red
 Hat Linux installer.
 
-%description -l pl
-Ten pakiet zawiera pliki pomocy u¿ywane przez anacondê - instalator
+%description -l pl.UTF-8
+Ten pakiet zawiera pliki pomocy uÅ¼ywane przez anacondÄ™ - instalator
 systemu Red Hat Linux.
 
 %prep
